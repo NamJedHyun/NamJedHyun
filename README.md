@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jed 👋
 
-<!--
-**NamJedHyun/NamJedHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BSIT student currently learning software development, databases, networking, and UI/UX.
 
-Here are some ideas to get you started:
+### Currently learning
+- Java
+- Python
+- SQL
+- Git & GitHub
+- UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- BSIT Student
+- Interested in software development
+- Interested in UI/UX and front-end development
