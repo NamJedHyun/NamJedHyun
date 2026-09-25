@@ -6,7 +6,6 @@ I'm a BSIT student currently learning software development, databases, networkin
 - Java
 - Python
 - SQL
-- Git & GitHub
 - UI/UX
 
 ### About me
