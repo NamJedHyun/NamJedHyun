@@ -11,17 +11,6 @@ I'm a BSIT student currently learning software development, databases, networkin
 * Web Development
 * UI/UX Design
 
-## School Projects
-
-Here are some of the projects I've worked on throughout my BSIT studies. Most of these were group projects, and my contributions varied depending on the project.
-
-* **Santa Rosa Art Trail** — Web development project
-* **Network Monitoring System** — Python & Flask
-* **Student Record System** — Java, JavaFX & database
-* **Entry Flow** — Excel & VBA attendance management system
-* **Laguna Folklore Trivia Game** — Game development project
-* **LittleFuse Employee Portal** — UI/UX & Figma
-
 ## About Me
 
 * BSIT Student
